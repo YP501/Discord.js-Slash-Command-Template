@@ -1,0 +1,8 @@
+{
+    "token": {
+        "main": "Token for main bot here",
+        "test": "Token for testing bot here"
+    },
+    "intens": "Your client intents here, for example: GUILDS, GUILD_MESSAGES, GUILD_MEMBERS",
+    "GUILD_ID": "Your server id here"
+}
